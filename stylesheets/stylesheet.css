@@ -7,7 +7,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: ff8800; }
+  color: #ff8800; }
 
 a {
   color: #1e6bb8;
@@ -111,14 +111,14 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: ff8800; }
+  color: #ff8800; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
-  color: ff8800;
+  color: #ff8800;
   background-color: #f3f6fa;
   border-radius: 0.3rem; }
 .main-content pre {
