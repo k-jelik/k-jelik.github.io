@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: url(https://cloud.githubusercontent.com/assets/16469601/12028984/4f93a1cc-ada6-11e5-82fb-782afc1eb7e7.jpg) }
 
 @media screen and (min-width: 64em) {
   .page-header {
