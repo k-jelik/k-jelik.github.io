@@ -17,6 +17,13 @@ grad {
   background: linear-gradient(red, yellow, green); /* Standard syntax */
 }
 
+div {
+  background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
